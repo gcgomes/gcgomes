@@ -12,7 +12,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-555555?style=flat&logo=php)
 ![C#](https://img.shields.io/badge/-C%23-555555?style=flat&logo=CSharp)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=Java)
-![Objective-C](https://img.shields.io/badge/-Objective-C-555555?style=flat&logo=Objective-C)
+![Objective-C](https://img.shields.io/badge/-ObjC-555555?style=flat&logo=iOS)
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-555555?logo=mysql)
