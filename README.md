@@ -12,6 +12,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-555555?style=flat&logo=php)
 ![C#](https://img.shields.io/badge/-C%23-555555?style=flat&logo=CSharp)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=Java)
+![Objective-C](https://img.shields.io/badge/-Objective-C-555555?style=flat&logo=Objective-C)
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-555555?logo=mysql)
@@ -30,6 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-555555?style=flat&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-555555?style=flat&logo=jQuery)
 ![Android/Java](https://img.shields.io/badge/-Android-555555?style=flat&logo=android)
+![Objective-C/iOS](https://img.shields.io/badge/-iOS-555555?style=flat&logo=iOS)
 ![React Native](https://img.shields.io/badge/-React_Native-555555?logo=react)
 
 ### Others
@@ -47,6 +49,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/gabrielcesariogomes/">
   <img align="left" alt="LinkedIn" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
    
-<a target="_blank" href="mailto:gabriel.gomes@gafit.com.br">
+<a target="_blank" href="mailto:gabrielcesariogomes@gmail.com.br">
   <img align="left" alt="Email" width="25px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" />
 </a>
