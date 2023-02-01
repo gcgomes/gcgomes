@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Gabriel Gomes</h1>
-<h3 align="center">I'm a full-stack Developer currently working at <a href="https://gafit.com.br/">Gafit</a></h3>
+<h3 align="center">I'm a Senior Full-stack Developer currently working at <a href="https://gafit.com.br/">Gafit</a></h3>
 
 ---
 * 🏢 Bachelor at Control and Automation Engineer by Federal University of Lavras - UFLA
